@@ -1,2 +1,6 @@
 include ':app'
+<<<<<<< HEAD
 rootProject.name = "My Application"
+=======
+rootProject.name = "GitTest"
+>>>>>>> b0bb1a4 (first)
